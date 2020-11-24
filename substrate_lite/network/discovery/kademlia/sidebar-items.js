@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build_find_node_request","Builds a wire message to send on the Kademlia request-response protocol to ask the target to return the nodes closest to the parameter."]],"struct":[["Kademlia","Data structure containing the k-buckets and the state of the current Kademlia queries."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build_subscription_event","Builds a JSON event to a subscription."],["build_success_response","Builds a JSON response."],["parse_call","Parses a JSON-encoded RPC method call or notification."]],"struct":[["Call","Parsed JSON-RPC call."],["ParseError","Error while parsing a call."]]});

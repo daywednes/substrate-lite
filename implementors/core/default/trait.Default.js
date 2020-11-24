@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["substrate_lite"] = [{"text":"impl&lt;T&gt; Default for ForkTree&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl Default for ChangesTrieConfiguration","synthetic":false,"types":[]},{"text":"impl Default for CalculationCache","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

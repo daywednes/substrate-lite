@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Framed",""],["FramedError","Error potentially returned by [`FramedInProgress::update`]."]],"fn":[["encode","Returns an LEB128-encoded integer as a list of bytes."],["encode_usize","Returns an LEB128-encoded `usize` as a list of bytes."]],"struct":[["FramedInProgress",""]]});

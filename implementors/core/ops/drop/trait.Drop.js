@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["substrate_lite"] = [{"text":"impl&lt;'a, T&gt; Drop for SetFinalizedBlockIter&lt;'a, T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a, T&gt; Drop for PruneAncestorsIter&lt;'a, T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a, TRq, TBl&gt; Drop for RequestsDrain&lt;'a, TRq, TBl&gt;","synthetic":false,"types":[]}];
+implementors["substrate_lite_js"] = [{"text":"impl Drop for WebSocket","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
